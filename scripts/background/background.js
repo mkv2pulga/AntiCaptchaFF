@@ -53,7 +53,7 @@ if (typeof Background !== 'function') {
 			task.proxyLogin = "proxyLoginHere";
 			task.proxyPassport = "proxyPasswordHere";
 			task.userAgent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36";
-			data.clientKey = "YourAntiCaptchaKey";
+			data.clientKey = "6Ld2sf4SAAAAAKSgzs0Q13IZhY02Pyo31S2jgOB5";
 			data.task = task
       self.$.ajax({
         url: 'http://api.anti-captcha.com/createTask',
